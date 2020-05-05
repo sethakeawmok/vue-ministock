@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+@import '~admin-lte/plugins/fontawesome-free/css/all.css';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~admin-lte/dist/css/adminlte.min.css';
+
+@import '~admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css';
+@import '~admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.min.css';
+
+
+.router-link-active {
+    background-color: #007bff; 
+}
+
+.router-link-active p, .router-link-active i { 
+    color: #fff;
+}
